@@ -1,0 +1,26 @@
+# Gradle
+build/
+.gradle/
+build.properties
+
+# Local configuration
+local.properties
+
+# OSX documents
+.DS_Store
+
+# IntelliJ
+*.idea
+*/.idea/*
+!.idea/inspectionProfiles
+*.iws
+*.iml
+captures/
+
+# Node modules
+*node_modules
+
+# Miscellaneous
+output/
+*.bak*
+.externalNativeBuild
