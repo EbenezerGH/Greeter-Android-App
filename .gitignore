@@ -24,3 +24,5 @@ captures/
 output/
 *.bak*
 .externalNativeBuild
+
+/Users/e/Documents/programming/android/projects/GreeterApp/app/src/main/res/raw/Greeter.sol
