@@ -1,5 +1,8 @@
 Basic android application to interact w/ [greeter](https://github.com/EbenezerGH/Greeter-Contract) contract
 
+**[Link To Article](https://link.medium.com/szN3vndBWT)**
+
+
 Sent Successful transaction: https://rinkeby.etherscan.io/tx/0x9e6add7138f7d0b0488be727010b783dd227f8498d9e00fc139e19e89c9f978d
 
 Contract: https://rinkeby.etherscan.io/address/0x8394cdf176a4a52da5889f7a99c4f7ad2bf59088#readContract
